@@ -1,0 +1,12 @@
+[0]
+!version=6.49b
+!filename=DotA Allstars v6.49b AMH v2.w3x
+!filesize=b4402600
+!signature=7bb1dfd0
+!crc32=74ff074f
+[1]
+!version=6.48b
+!filename=DotA Allstars v6.48b.w3x
+!filesize=95d62500
+!signature=60dbf6b3
+!crc32=47e0465f
